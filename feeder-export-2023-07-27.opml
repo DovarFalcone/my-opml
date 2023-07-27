@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.1">
+  <head>
+    <title>
+      Feeder
+    </title>
+  </head>
+  <body>
+    <outline title="Feeder News" text="Feeder News" type="rss" xmlUrl="https://news.nononsenseapps.com/index.atom"/>
+    <outline title="NASA Breaking News" text="NASA Breaking News" type="rss" xmlUrl="https://www.nasa.gov/rss/dyn/breaking_news.rss"/>
+    <outline title="Hacker News: Best" text="Hacker News: Best" type="rss" xmlUrl="https://hnrss.org/best"/>
+    <outline title="Database Trends and Applications : All Articles" text="Database Trends and Applications : All Articles" type="rss" xmlUrl="https://feeds.feedburner.com/DBTA-Articles"/>
+    <outline title="Steam RSS News Feed" text="Steam RSS News Feed" type="rss" xmlUrl="https://store.steampowered.com/feeds/news.xml"/>
+    <outline title="Kotaku" text="Kotaku" type="rss" xmlUrl="https://kotaku.com/rss"/>
+    <outline title="Data Science Central" text="Data Science Central" type="rss" xmlUrl="https://www.datasciencecentral.com/feed/rdf"/>
+    <outline title="MIT News" text="MIT News" type="rss" xmlUrl="https://news.mit.edu/rss/research"/>
+    <outline title="Bungie.Net RSS Feed" text="Bungie.Net RSS Feed" type="rss" xmlUrl="https://www.bungie.net/en/rss/News"/>
+    <outline title="Internet Archive Blogs" text="Internet Archive Blogs" type="rss" xmlUrl="http://blog.archive.org/feed/"/>
+    <outline title="Sputnik International - Breaking News &amp; Analysis - Radio, Photos, Videos, Infographics" text="Sputnik International - Breaking News &amp; Analysis - Radio, Photos, Videos, Infographics" type="rss" xmlUrl="http://en.rian.ru/export/rss2/index.xml"/>
+    <outline title="BBC News - Technology" text="BBC News - Technology" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/technology/rss.xml"/>
+    <outline title="BBC News - World" text="BBC News - World" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/world/rss.xml"/>
+    <outline title="AVC" text="AVC" type="rss" xmlUrl="http://feeds.feedburner.com/avc"/>
+    <outline title="TorrentFreak" text="TorrentFreak" type="rss" xmlUrl="http://feeds.feedburner.com/Torrentfreak"/>
+    <outline title="Reuters: World News" text="Reuters: World News" type="rss" xmlUrl="http://feeds.reuters.com/reuters/worldNews"/>
+    <outline title="Top Headlines" text="Top Headlines" type="rss" xmlUrl="http://hosted2.ap.org/atom/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305"/>
+    <outline title="Technology Headlines" text="Technology Headlines" type="rss" xmlUrl="http://hosted2.ap.org/atom/APDEFAULT/495d344a0d10421e9baa8ee77029cfbd"/>
+    <outline title="Politics Headlines" text="Politics Headlines" type="rss" xmlUrl="http://hosted2.ap.org/atom/APDEFAULT/89ae8247abe8493fae24405546e9a1aa"/>
+    <outline title="Mediagazer" text="Mediagazer" type="rss" xmlUrl="http://mediagazer.com/feed.xml"/>
+    <outline title="Motherboard" text="Motherboard" type="rss" xmlUrl="http://motherboard.vice.com/en_us/rss"/>
+    <outline title="Face The Nation - CBSNews.com" text="Face The Nation - CBSNews.com" type="rss" xmlUrl="http://www.cbsnews.com/latest/rss/face-the-nation"/>
+    <outline title="Engadget RSS Feed" text="Engadget RSS Feed" type="rss" xmlUrl="http://www.engadget.com/rss.xml"/>
+    <outline title="NYT &gt; Obituaries" text="NYT &gt; Obituaries" type="rss" xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/Obituaries.xml"/>
+    <outline title="NYT &gt; World" text="NYT &gt; World" type="rss" xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/World.xml"/>
+    <outline title="Techmeme" text="Techmeme" type="rss" xmlUrl="http://www.techmeme.com/index.xml"/>
+    <outline title="Vox -  All" text="Vox -  All" type="rss" xmlUrl="http://www.vox.com/rss/index.xml"/>
+    <outline title="TechLinked" text="TechLinked" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCeeFfhMcJa1kjtfZAGskOCA"/>
+    <outline title="My Lovely Website" text="My Lovely Website" type="rss" xmlUrl="https://furtkevic.com/feed.xml"/>
+    <outline title="Homelab Forums" text="Homelab Forums" type="rss" xmlUrl="https://homelabforum.com/app.php/feed?sid=c96e6ca8555d204bdcb2db004c418e3b"/>
+    <outline title="Retro Dodo" text="Retro Dodo" type="rss" xmlUrl="https://retrododo.com/feed/"/>
+    <outline title="Towards Data Science - Medium" text="Towards Data Science - Medium" type="rss" xmlUrl="https://towardsdatascience.com/feed"/>
+    <outline title="" text="" type="rss" xmlUrl="https://www.wired.com/rss"/>
+    <outline title="TechCrunch" text="TechCrunch" type="rss" xmlUrl="https://techcrunch.com/feed/"/>
+    <outline title="Hackaday" text="Hackaday" type="rss" xmlUrl="https://hackaday.com/feed/"/>
+    <outline title="Top Technology News -- ScienceDaily" text="Top Technology News -- ScienceDaily" type="rss" xmlUrl="https://www.sciencedaily.com/rss/top/technology.xml"/>
+    <outline title="Latest Science News -- ScienceDaily" text="Latest Science News -- ScienceDaily" type="rss" xmlUrl="https://www.sciencedaily.com/rss/most_popular.xml"/>
+    <outline title="SciTechDaily" text="SciTechDaily" type="rss" xmlUrl="http://scitechdaily.com/feed"/>
+    <outline title="GitHub All Languages Daily Trending" text="GitHub All Languages Daily Trending" type="rss" xmlUrl="https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml"/>
+    <outline title="Gaming" text="Gaming">
+      <outline title="GameLinked" text="GameLinked" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHDxYLv8iovIbhrfl16CNyg"/>
+    </outline>
+  </body>
+</opml>
