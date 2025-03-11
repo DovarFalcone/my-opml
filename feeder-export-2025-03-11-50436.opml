@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.1" xmlns:feeder="https://nononsenseapps.com/feeder">
+  <head>
+    <title>
+      Feeder
+    </title>
+  </head>
+  <body>
+    <outline title="Data News" text="Data News">
+      <outline feeder:notify="false" feeder:imageUrl="https://www.datasciencecentral.com/wp-content/uploads/2021/11/cropped-favicon-180x180.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Data Science Central" text="Data Science Central" type="rss" xmlUrl="https://www.datasciencecentral.com/feed/rdf"/>
+      <outline feeder:notify="false" feeder:imageUrl="https://www.dbta.com/Images/RSS.gif" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Database Trends and Applications : All Articles" text="Database Trends and Applications : All Articles" type="rss" xmlUrl="https://feeds.feedburner.com/DBTA-Articles"/>
+      <outline feeder:notify="false" feeder:imageUrl="https://towardsdatascience.com/wp-content/uploads/2025/02/cropped-Favicon-32x32.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Towards Data Science - Medium" text="Towards Data Science - Medium" type="rss" xmlUrl="https://towardsdatascience.com/feed"/>
+    </outline>
+    <outline title="Developer" text="Developer">
+      <outline feeder:notify="false" feeder:imageUrl="https://hackaday.com/wp-content/themes/hackaday-2/img/hackaday-logo_1024x1024.png?v=3" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Hackaday" text="Hackaday" type="rss" xmlUrl="https://hackaday.com/feed/"/>
+      <outline feeder:notify="false" feeder:imageUrl="https://news.ycombinator.com/favicon.ico" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Hacker News: Best" text="Hacker News: Best" type="rss" xmlUrl="https://hnrss.org/best"/>
+    </outline>
+    <outline title="Gaming" text="Gaming">
+      <outline feeder:notify="false" feeder:imageUrl="http://" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Bungie.Net RSS Feed" text="Bungie.Net RSS Feed" type="rss" xmlUrl="https://www.bungie.net/en/rss/News"/>
+      <outline feeder:notify="false" feeder:imageUrl="https://www.youtube.com/s/desktop/5946722d/img/favicon_32x32.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="GameLinked" text="GameLinked" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHDxYLv8iovIbhrfl16CNyg"/>
+      <outline feeder:notify="false" feeder:imageUrl="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_200,q_80,w_200/v4sckews2f3bzf0ztbkf.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Kotaku" text="Kotaku" type="rss" xmlUrl="https://kotaku.com/rss"/>
+      <outline feeder:notify="false" feeder:imageUrl="https://retrododo.com/favicon.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Retro Dodo" text="Retro Dodo" type="rss" xmlUrl="https://retrododo.com/feed/"/>
+      <outline feeder:notify="false" feeder:imageUrl="http://www.steampowered.com/favicon.ico" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Steam RSS News Feed" text="Steam RSS News Feed" type="rss" xmlUrl="https://store.steampowered.com/feeds/news.xml"/>
+      <outline feeder:notify="false" feeder:imageUrl="https://www.youtube.com/s/desktop/5946722d/img/favicon_32x32.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="TechLinked" text="TechLinked" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCeeFfhMcJa1kjtfZAGskOCA"/>
+    </outline>
+    <outline title="General" text="General">
+      <outline feeder:notify="false" feeder:imageUrl="https://news.nononsenseapps.com/apple-touch-icon.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Feeder News" text="Feeder News" type="rss" xmlUrl="https://news.nononsenseapps.com/index.atom"/>
+      <outline feeder:notify="false" feeder:imageUrl="https://furtkevic.com/favicon.ico" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="My Lovely Website" text="My Lovely Website" type="rss" xmlUrl="https://furtkevic.com/feed.xml"/>
+    </outline>
+    <outline title="GitHub Daily" text="GitHub Daily">
+      <outline feeder:notify="false" feeder:imageUrl="http://mshibanami.github.io/static/img/favicon-196.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="GitHub All Languages Daily Trending" text="GitHub All Languages Daily Trending" type="rss" xmlUrl="https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml"/>
+    </outline>
+    <outline title="Low Stream News" text="Low Stream News">
+      <outline feeder:notify="false" feeder:imageUrl="https://vice-web-statics-cdn.vice.com/favicons/vice/apple-touch-icon-57x57.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Motherboard" text="Motherboard" type="rss" xmlUrl="http://motherboard.vice.com/en_us/rss"/>
+      <outline feeder:notify="false" feeder:imageUrl="https://torrentfreak.com/apple-touch-icon.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="TorrentFreak" text="TorrentFreak" type="rss" xmlUrl="http://feeds.feedburner.com/Torrentfreak"/>
+      <outline feeder:notify="false" feeder:imageUrl="https://platform.vox.com/wp-content/uploads/sites/2/2024/08/vox_logo_rss_light_mode.png?w=150&amp;h=100&amp;crop=1" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Vox -  All" text="Vox -  All" type="rss" xmlUrl="http://www.vox.com/rss/index.xml"/>
+    </outline>
+    <outline title="Main Stream News" text="Main Stream News">
+      <outline feeder:notify="false" feeder:imageUrl="https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="NYT &gt; Obituaries" text="NYT &gt; Obituaries" type="rss" xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/Obituaries.xml"/>
+    </outline>
+    <outline title="Science News" text="Science News">
+      <outline feeder:notify="false" feeder:imageUrl="https://www.sciencedaily.com/images/scidaily-logo-rss.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Latest Science News -- ScienceDaily" text="Latest Science News -- ScienceDaily" type="rss" xmlUrl="https://www.sciencedaily.com/rss/most_popular.xml"/>
+      <outline feeder:notify="false" feeder:imageUrl="http://" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="MIT News" text="MIT News" type="rss" xmlUrl="https://news.mit.edu/rss/research"/>
+      <outline feeder:notify="false" feeder:imageUrl="http://www.nasa.gov/sites/all/themes/custom/nasatwo/images/apple-touch-icon.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="NASA Breaking News" text="NASA Breaking News" type="rss" xmlUrl="https://www.nasa.gov/rss/dyn/breaking_news.rss"/>
+      <outline feeder:notify="false" feeder:imageUrl="http://" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="SciTechDaily" text="SciTechDaily" type="rss" xmlUrl="http://scitechdaily.com/feed"/>
+      <outline feeder:notify="false" feeder:imageUrl="https://www.sciencedaily.com/images/scidaily-logo-rss.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Top Technology News -- ScienceDaily" text="Top Technology News -- ScienceDaily" type="rss" xmlUrl="https://www.sciencedaily.com/rss/top/technology.xml"/>
+    </outline>
+    <outline title="Tech News" text="Tech News">
+      <outline feeder:notify="false" feeder:imageUrl="https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="BBC News - Technology" text="BBC News - Technology" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/technology/rss.xml"/>
+      <outline feeder:notify="false" feeder:imageUrl="https://s.yimg.com/kw/assets/apple-touch-icon-57x57.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Engadget RSS Feed" text="Engadget RSS Feed" type="rss" xmlUrl="http://www.engadget.com/rss.xml"/>
+      <outline feeder:notify="false" feeder:imageUrl="https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="TechCrunch" text="TechCrunch" type="rss" xmlUrl="https://techcrunch.com/feed/"/>
+    </outline>
+    <feeder:settings>
+      <feeder:setting key="pref_is_mark_as_read_on_scroll" value="true"/>
+      <feeder:setting key="pref_added_feeder_news" value="true"/>
+    </feeder:settings>
+  </body>
+</opml>
